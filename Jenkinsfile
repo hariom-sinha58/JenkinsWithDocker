@@ -1,4 +1,3 @@
-Project Jenkins File Content:
 pipeline {
     agent any
     stages {
